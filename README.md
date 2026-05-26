@@ -1,6 +1,6 @@
 # TiRano
 
-This is the official implementation of **Tirano** for **temporal knowledge graph completion**.
+This repository is the official implementation of **"TiRano: Tensorized Relation-aware Temporal Reasoning for Accurate Knowledge Graph Completion"** (KDD 2026).
 
 ## Overeview of TiRano
 ![Overview](tirano.png)
@@ -185,3 +185,14 @@ python main.py --dataset ICEWS14 --data_dir dataset \
   --device cuda
 ```
 ---
+
+## Reference
+
+If you use this code, please cite the following paper.
+```bibtex
+@inproceedings{park2026mmf,
+  title={TiRano: Tensorized Relation-aware Temporal Reasoning for Accurate Knowledge Graph Completion},
+  author={Lee, SeungJoo, Park, Yong-chan and Kang, U},
+  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
+  year={2026}
+}
