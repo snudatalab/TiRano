@@ -190,7 +190,7 @@ python main.py --dataset ICEWS14 --data_dir dataset \
 
 If you use this code, please cite the following paper.
 ```bibtex
-@inproceedings{park2026mmf,
+@inproceedings{lee2026tirano,
   title={TiRano: Tensorized Relation-aware Temporal Reasoning for Accurate Knowledge Graph Completion},
   author={Lee, SeungJoo, Park, Yong-chan and Kang, U},
   booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
